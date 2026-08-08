@@ -1,0 +1,121 @@
+# 🎯 InterPrep AI
+
+> **From Resume to Interview Ready.**
+
+InterPrep AI is an AI-powered interview preparation platform that analyzes a candidate's **resume and target Job Description (JD)** to generate personalized interview questions, conduct mock interviews, evaluate answers, and provide actionable feedback.
+
+Instead of preparing with generic interview questions, InterPrep AI focuses on the candidate's **actual skills, projects, experience, and the requirements of the target role**.
+
+---
+
+## 🚀 Features
+
+### 📄 Resume Analysis
+- Upload your resume in PDF format.
+- Automatically extract resume content.
+- Identify technical skills, projects, experience, and qualifications.
+
+### 💼 Job Description Analysis
+- Paste the target job description.
+- Identify important skills and technologies.
+- Compare job requirements with the candidate's resume.
+
+### 🧠 Resume × JD Analysis
+- Identify matching skills.
+- Highlight important preparation areas.
+- Identify technologies and concepts likely to be discussed.
+- Detect potential skill gaps.
+
+### ❓ Personalized Interview Questions
+
+Generate questions based on:
+
+- Resume
+- Job Description
+- Question category
+- Difficulty level
+- Number of questions
+
+Supported categories:
+
+- Technical
+- Projects
+- Machine Learning
+- DSA
+- HR / Behavioral
+- Internship
+- Mixed
+
+### 🎤 AI Mock Interview
+
+- Start an interactive mock interview.
+- Receive questions based on your resume and target role.
+- Record answers using your microphone.
+- Convert speech into text.
+- Evaluate answers using AI.
+- Generate challenging follow-up questions.
+
+### 📊 Interview Feedback
+
+Each answer can be evaluated based on:
+
+- Technical correctness
+- Relevance
+- Depth
+- Clarity
+- Completeness
+- Communication
+
+The platform provides:
+
+- ⭐ Score out of 10
+- ✅ What was good
+- ⚠️ What is missing
+- ❌ What is incorrect
+- 💡 How to improve
+- 🎯 Interview tips
+- 📝 Ideal answer
+
+---
+
+## 🏗️ Application Workflow
+
+```text
+             ┌─────────────────┐
+             │   Upload Resume │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Add Job         │
+             │ Description     │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Resume × JD     │
+             │ Analysis        │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Personalized    │
+             │ Questions       │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ AI Mock         │
+             │ Interview       │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Answer          │
+             │ Evaluation      │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Feedback + Tips │
+             └─────────────────┘
