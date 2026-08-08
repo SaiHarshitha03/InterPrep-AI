@@ -6,6 +6,10 @@ InterPrep AI is an AI-powered interview preparation platform that analyzes a can
 
 Instead of preparing with generic interview questions, InterPrep AI focuses on the candidate's **actual skills, projects, experience, and the requirements of the target role**.
 
+## 🚀 Live Demo
+
+[🌐 **Try InterPrep AI**](https://interprep-ai-dy57uvwfnex2kiywnrappf2.streamlit.app/) 
+
 ---
 
 ## 🚀 Features
@@ -68,10 +72,7 @@ Each answer can be evaluated based on:
 
 ---
 
-## 🚀 Live Demo
 
-[🌐 **Try InterPrep AI**](https://interprep-ai-dy57uvwfnex2kiywnrappf2.streamlit.app/) 
----
 
 ## 💡 How to Use
 
