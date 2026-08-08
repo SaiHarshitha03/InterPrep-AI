@@ -122,7 +122,9 @@ The platform provides:
 
 
 
-## 💡 How to Use
+
+
+### 💡 How to Use
 
 ### Step 1 — Upload Resume
 Upload your resume in PDF format.
