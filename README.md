@@ -78,52 +78,6 @@ The platform provides:
 
 ---
 
-## 🏗️ Application Workflow
-
-```text
-             ┌─────────────────┐
-             │   Upload Resume │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Add Job         │
-             │ Description     │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Resume × JD     │
-             │ Analysis        │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Personalized    │
-             │ Questions       │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ AI Mock         │
-             │ Interview       │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Answer          │
-             │ Evaluation      │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Feedback + Tips │
-             └─────────────────┘
-
-
-
-
-
 ### 💡 How to Use
 
 ### Step 1 — Upload Resume
@@ -146,20 +100,10 @@ Go to **🎤 Mock Interview** and start the AI-powered interview.
 Answer questions using your microphone and convert your responses into text.
 
 ### Step 6 — Get AI Feedback
-Evaluate your answer to receive:
-
-- ⭐ Score
-- ✅ What was good
-- ⚠️ What is missing
-- ❌ Incorrect points
-- 💡 Improvement suggestions
-- 🎯 Interview tips
-- 📝 Ideal answer
 
 ### Step 7 — Practice Follow-up Questions
 Use the **🔥 Ask Follow-up** option to receive deeper questions based on your previous answer.
 
----
 
 ## 🌟 Future Enhancements
 
@@ -184,3 +128,64 @@ Use the **🔥 Ask Follow-up** option to receive deeper questions based on your 
 InterPrep AI aims to make interview preparation more personalized, practical, and role-specific by connecting what a candidate has written on their resume with what the target company is actually looking for.
 
 Your Resume. Your Role. Your Interview.
+
+---
+
+
+## 🔄 How InterPrep AI Works
+
+```text
+┌──────────────────────┐
+│   📄 Upload Resume   │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 💼 Add Job           │
+│    Description       │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 🧠 AI Analyzes       │
+│    Resume + JD       │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ ❓ Generate          │
+│ Personalized         │
+│ Interview Questions  │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 🎤 Start AI Mock     │
+│    Interview         │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 🗣️ Answer Questions  │
+│    Using Voice/Text  │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 📊 AI Evaluates      │
+│    Your Answer       │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 🎯 Score + Feedback  │
+│ 💡 Tips + Ideal      │
+│    Answer            │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ 🔥 Follow-up         │
+│    Questions         │
+└──────────────────────┘
+
