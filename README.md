@@ -68,6 +68,9 @@ Each answer can be evaluated based on:
 
 ---
 
+## 🚀 Live Demo
+
+[🌐 **Try InterPrep AI:**](https://interprep-ai-dy57uvwfnex2kiywnrappf2.streamlit.app/) 
 
 ## 💡 How to Use
 
