@@ -119,3 +119,66 @@ The platform provides:
              ┌─────────────────┐
              │ Feedback + Tips │
              └─────────────────┘
+
+
+
+## 💡 How to Use
+
+### Step 1 — Upload Resume
+Upload your resume in PDF format.
+
+### Step 2 — Add Job Description
+Paste the complete Job Description for the role you are applying for.
+
+### Step 3 — Analyze Resume & JD
+Click **🚀 Analyze & Prepare**.
+
+InterPrep AI compares your resume with the job requirements and identifies important skills and preparation areas.
+
+### Step 4 — Generate Interview Questions
+Go to **❓ Interview Questions** and generate personalized questions based on your resume, JD, category, difficulty, and number of questions.
+
+### Step 5 — Start Mock Interview
+Go to **🎤 Mock Interview** and start the AI-powered interview.
+
+Answer questions using your microphone and convert your responses into text.
+
+### Step 6 — Get AI Feedback
+Evaluate your answer to receive:
+
+- ⭐ Score
+- ✅ What was good
+- ⚠️ What is missing
+- ❌ Incorrect points
+- 💡 Improvement suggestions
+- 🎯 Interview tips
+- 📝 Ideal answer
+
+### Step 7 — Practice Follow-up Questions
+Use the **🔥 Ask Follow-up** option to receive deeper questions based on your previous answer.
+
+---
+
+## 🌟 Future Enhancements
+
+- 🎥 Video-based mock interviews
+- 🗣️ Voice confidence and communication analysis
+- 👁️ Facial expression analysis
+- 📊 Interview performance dashboard
+- 📈 Skill-gap visualization
+- 💻 Coding interview mode
+- 🏢 Company-specific interview preparation
+- 🏆 Interview readiness score
+- 📚 Personalized preparation roadmap
+- 📄 AI-powered resume improvement
+- 🔗 LinkedIn profile integration
+- 📱 Mobile application
+- 📧 Interview preparation reports
+
+---
+
+## 🎯 Project Goal
+
+InterPrep AI aims to make interview preparation more personalized, practical, and role-specific by connecting what a candidate has written on their resume with what the target company is actually looking for.
+
+Your Resume. Your Role. Your Interview.
